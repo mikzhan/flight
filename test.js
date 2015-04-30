@@ -1,1 +1,1 @@
-var price = 100;
+var price = 150;
